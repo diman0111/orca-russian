@@ -1,0 +1,16 @@
+{
+  "name": "Orca Russian",
+  "owner": "diman0111",
+  "plugins": [
+    {
+      "id": "diman0111.russian",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/diman0111/orca-russian.git",
+        "ref": "v1.0.0"
+      },
+      "description": "Russian translations for Orca Settings.",
+      "categories": ["languages"]
+    }
+  ]
+}
