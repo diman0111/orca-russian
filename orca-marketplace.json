@@ -7,7 +7,7 @@
       "source": {
         "kind": "git",
         "url": "https://github.com/diman0111/orca-russian.git",
-        "ref": "v1.1.0"
+        "ref": "v1.2.0"
       },
       "description": "Russian translations for Orca Settings.",
       "categories": [
